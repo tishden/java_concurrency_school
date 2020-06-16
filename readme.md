@@ -1,6 +1,6 @@
 
 This is repository with source code and presentation for the Udemy course:
-## **Java Concurrent, Multitreaded Programming, Threads Synchronization, Concurrent Algorithms, Asynchronous Tasks, etc.**
+## **Java Concurrent & Multithreaded Programming Crash Course**
 
 **Description the course**
 
