@@ -1,5 +1,5 @@
 
-This is repository with source code and presentation for the Udemy course:
+This is repository with source code and a presentation for the Udemy course:
 ## **Java Concurrent & Multithreaded Programming Crash Course**
 
 **Description the course**
