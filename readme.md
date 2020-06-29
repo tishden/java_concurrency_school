@@ -1,6 +1,7 @@
 
 This is repository with source code and a presentation for the Udemy course:
 ## **Java Concurrent & Multithreaded Programming Crash Course**
+https://www.udemy.com/course/java-concurrent-multithreaded-programming-crash-course/
 
 **Description the course**
 
